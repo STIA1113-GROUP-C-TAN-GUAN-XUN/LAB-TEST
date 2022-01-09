@@ -15,7 +15,7 @@ public class LabTest1_2 {
 		
 		System.out.print("Enter sales        : RM ");
 		int salesVolume = sc.nextInt();
-		System.out.print("Enter hours worked : RM ");
+		System.out.print("Enter hours worked :  ");
 		int work_hour = sc.nextInt();
 		
 		if((salesVolume>=150)&&(salesVolume<=300)) {
